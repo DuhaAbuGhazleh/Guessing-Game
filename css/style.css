@@ -1,0 +1,52 @@
+
+
+body{
+padding: 60px;
+} 
+
+
+#green {
+color:rgb(34, 104, 34)
+
+      
+}
+h1 {
+    width:500px;
+    margin: 0 auto;
+    background: rgba(196, 193, 193, 0.568);
+    text-align: center;
+}
+
+    h3{
+      color:rgb(199, 28, 85)
+    }
+
+
+
+      .wrapper {
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr;
+        grid-template-rows: auto auto ;
+        
+        grid-gap: 100 px;
+        text-decoration: rgb(52, 161, 151);
+        text-align: center;
+       
+    }
+
+
+    header ul li{
+        display: inline-block;
+  
+      }
+
+      nav{
+        float:right;
+      }
+
+    a:link {
+        display: -webkit-inline-box;
+        text-align:center;
+       
+            
+          }
