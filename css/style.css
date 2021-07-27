@@ -4,7 +4,9 @@ body{
 padding: 60px;
 } 
 
-
+body {
+  background-color: rgb(215, 248, 229);
+}
 #green {
 color:rgb(34, 104, 34)
 
@@ -23,7 +25,7 @@ h1 {
 
 
 
-      .wrapper {
+     /* .wrapper {
         display: grid;
         grid-template-columns: 1fr 1fr 1fr;
         grid-template-rows: auto auto ;
@@ -33,7 +35,7 @@ h1 {
         text-align: center;
        
     }
-
+*/
 
     header ul li{
         display: inline-block;
@@ -49,4 +51,14 @@ h1 {
         text-align:center;
        
             
+          }
+
+          
+          }
+          .grid-item {
+            background-color: rgba(255, 255, 255, 0.8);
+            border: 1px solid rgba(0, 0, 0, 0.8);
+            padding: 20px;
+            font-size: 15px;
+        
           }
