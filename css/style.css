@@ -5,7 +5,7 @@ padding: 60px;
 } 
 
 body {
-  background-color: rgb(215, 248, 229);
+  background-color: #aaf0b9a8;
 }
 #green {
 color:rgb(34, 104, 34)
@@ -21,6 +21,7 @@ h1 {
 
     h3{
       color:rgb(199, 28, 85)
+      
     }
 
 
@@ -53,5 +54,13 @@ h1 {
             
           }
 
-          
+          /*div {
+                      width: 500px;
+            height: 500px;
+            background-color: silver;
+            margin: 5px;
+            padding: 20px;
+          }*/
+
+         
           
