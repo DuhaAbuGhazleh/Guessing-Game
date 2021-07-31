@@ -188,3 +188,4 @@ function favcountry () {
 favcountry () ;
 
 alert ('your grade is '+ counter + ' Thanks for your time ');
+
